@@ -1,7 +1,7 @@
 # Given assignment2.csv file from GitHub I created and added the file manually from my computer to GitHub so I can practice using GitHub.
 #assign the cloned GitHub File from the internet into variable called assignment_file 
 # using function read.csv assign the file to assignement2 variable. 
-assignment_file <- "https://raw.githubusercontent.com/Trevor214/LIS-rProgramming/main/assignment2.csv"
+assignment_file <- "https://raw.githubusercontent.com/Trevor214/LIS-rProgramming/main/Module%202/assignment2.csv"
 assignment2 <- read.csv(assignment_file)
 assignment2
 #The file is downloaded as a data frame.
